@@ -1,7 +1,7 @@
 {
   "name": "atom-open-marked",
   "main": "./lib/atom-open-marked",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "markdown preview in Marked2.app (Mac Only)",
   "keywords": [
     "Markdown",
