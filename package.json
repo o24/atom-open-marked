@@ -1,0 +1,18 @@
+{
+  "name": "atom-open-marked",
+  "main": "./lib/atom-open-marked",
+  "version": "0.9.0",
+  "description": "Mac版 markdownプレビューアプリ Markedを起動します",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-open-marked:OpenMarked"
+  },
+  "repository": "https://github.com/atom/atom-open-marked",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

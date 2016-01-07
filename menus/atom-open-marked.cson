@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'OpenMarked'
+      'command': 'atom-open-marked:OpenMarked'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'atom-open-marked'
+      'submenu': [
+        {
+          'label': 'OpenMarked'
+          'command': 'atom-open-marked:OpenMarked'
+        }
+      ]
+    ]
+  }
+]
