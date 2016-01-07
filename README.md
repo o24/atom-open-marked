@@ -1,5 +1,5 @@
 # atom-open-marked package
-Markdown preview for Marked2.app (Mac Only)
+Markdown preview in Marked2.app (Mac Only)
 
 ## Required
 [Marked2](https://itunes.apple.com/us/app/marked-2/id890031187?ls=1&mt=12)
