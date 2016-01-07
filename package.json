@@ -2,7 +2,7 @@
   "name": "atom-open-marked",
   "main": "./lib/atom-open-marked",
   "version": "0.10.0",
-  "description": "Mac版 markdownプレビューアプリ Markedを起動します",
+  "description": "markdown preview in Marked2.app (Mac Only)",
   "keywords": [
     "Markdown",
     "md",
