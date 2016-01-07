@@ -1,5 +1,17 @@
 # atom-open-marked package
+Markdown preview for Marked2.app (Mac Only)
 
-A short description of your package.
+## Key binding
+* ctrl+shift+cmd+m
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Command
+```
+OpenMarked
+```
+
+## Screenshot
+![A screenshot of your package](./docs/sc.gif)
+
+## License
+MIT license.
+See the [LICENSE.md](./LICENSE.md)
