@@ -23,7 +23,7 @@ module.exports = AtomOpenMarked =
     path = file.path
 
     if path.indexOf(".md") isnt -1
-      command = "open -a '#{@openCommand}' #{path}"
+      command = "open -a '#{@openCommand}' '#{path}'"
       console.log "command:" + command
       exec(command)
     else
